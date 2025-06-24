@@ -44,8 +44,8 @@
 
 ## 📫 Как связаться со мной
 
-- 📧 Email: [maximmelnickoff@yandex.ru](mailto:maximmelnickoff@yandex.ru)
-- 📱 Telegram: [@твой_ник](https://t.me/твой_ник) *(добавь, если есть)*
+- 📧 Email: [kycokorexa@yahoo.com](mailto:kycokorexa@yahoo.com)
+- 📱 Telegram: [@someonernb](https://t.me/someonernb
 
 ---
 
