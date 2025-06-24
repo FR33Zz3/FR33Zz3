@@ -8,7 +8,7 @@
 
 ## 🚀 Технологии, с которыми я работаю:
 
-![My Skills](https://skillicons.dev/icons?i=react,reactnative,js,ts,java,python,kotlin,html,css,git,firebase,mysql,spring,angular)
+![My Skills](https://skillicons.dev/icons?i=react,js,ts,java,python,kotlin,html,css,git,firebase,mysql,spring,angular)
 
 ---
 
